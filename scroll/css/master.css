@@ -1,0 +1,20 @@
+.scroll-content{
+  margin: 0px;
+  padding: 50px;
+  font-size: 18px;
+  background-color: #f6c9c1;
+  /*color: #5ab283;*/
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.scroll-top-btn{
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  background-color: #d05858;
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 15px;
+  display: none;
+}
