@@ -1,0 +1,4 @@
+router.get('/api/people', function(req, res){
+  var name = req.query.name;
+  var age= req.query.age;
+});
